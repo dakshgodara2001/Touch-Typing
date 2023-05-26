@@ -16,7 +16,6 @@ A web-based touch typing game built with React, allowing users to practice and i
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces
-- React Router: Routing library for managing navigation between screens
 - CSS: Styling the user interface
 
 ## Features
@@ -36,7 +35,7 @@ To get a local copy of the project up and running, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/touch-typing-game.git
-
+```
 2. Navigate to the project directory:
 
 3. Install the dependencies:
