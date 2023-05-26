@@ -10,8 +10,7 @@ A web-based touch typing game built with React, allowing users to practice and i
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Technologies Used
 
