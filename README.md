@@ -34,24 +34,31 @@ To get a local copy of the project up and running, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/touch-typing-game.git
+git clone https://github.com/dakshgodara2001/touch-typing-game.git
 ```
 2. Navigate to the project directory:
+```bash
+cd touch-typing-game
+```
 
 3. Install the dependencies:
+```bash
+npm install
+```
 
 ## Usage
 
-Start the development server:
-bash
-Copy code
+1. Start the development server:
+```bash
 npm start
-Open your web browser and visit http://localhost:3000 to access the touch typing game.
+```
 
-Click the "Start Touch Typing" button to begin the game.
+2. Open your web browser and visit ``http://localhost:3000`` to access the touch typing game.
 
-Type the displayed character accurately within the given time limit.
+3. Click the "Start Touch Typing" button to begin the game.
+ 
+4. Type the displayed character accurately within the given time limit.
 
-After the game ends, view your final score, including the correct count, incorrect count, and accuracy percentage.
+5. After the game ends, view your final score, including the correct count, incorrect count, and accuracy percentage.
 
-Click the "Restart Testing" button to play the game again.
+6. Click the "Restart Testing" button to play the game again.
