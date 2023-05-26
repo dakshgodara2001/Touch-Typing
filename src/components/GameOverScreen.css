@@ -1,0 +1,28 @@
+.game-over-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .game-over-screen h1,
+  .game-over-screen p {
+    margin-bottom: 20px;
+  }
+  
+  .restart-button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    background-color: #4a4a4a;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .restart-button:hover {
+    background-color: #6b6b6b;
+  }
+  

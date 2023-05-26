@@ -1,0 +1,22 @@
+.start-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .start-button {
+    padding: 20px 40px;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5px;
+    background-color: #4a4a4a;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .start-button:hover {
+    background-color: #6b6b6b;
+  }
+  

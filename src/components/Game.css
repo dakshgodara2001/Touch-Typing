@@ -1,0 +1,33 @@
+.game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  .game-info {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  .game-character {
+    font-size: 50px;
+    color: #007BFF;
+    margin-top: 20px;
+  }
+  
+  .game-input {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+  }
+  
+  .game-score {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
