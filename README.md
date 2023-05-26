@@ -1,4 +1,4 @@
-# Touch Typing Game
+# [Touch Typing Game](https://dreamy-kitten-08ab98.netlify.app)
 
 A web-based touch typing game built with React, allowing users to practice and improve their typing speed and accuracy.
 
