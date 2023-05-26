@@ -2,7 +2,11 @@
 
 A web-based touch typing game built with React, allowing users to practice and improve their typing speed and accuracy.
 
-![Touch Typing Game Screenshot](screenshot.png)
+![Screen Shot 2023-05-27 at 12 05 22 AM](https://github.com/dakshgodara2001/Touch-Typing/assets/52131905/3b2a4b8a-711b-44f0-a4f8-e6a42b1a92a2)
+
+![Screen Shot 2023-05-27 at 12 05 35 AM](https://github.com/dakshgodara2001/Touch-Typing/assets/52131905/2765db15-27e0-4fb9-bd48-54a2b6042a88)
+
+![Screen Shot 2023-05-27 at 12 05 47 AM](https://github.com/dakshgodara2001/Touch-Typing/assets/52131905/516d06bf-fab1-4402-92ae-cd183fab7f9c)
 
 ## Table of Contents
 
